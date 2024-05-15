@@ -1,0 +1,91 @@
+
+<!DOCTYPE HTML>
+<!--
+	Urban by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+--><html><head><title>Urban by TEMPLATED</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"></head><body>
+
+		<!-- Header -->
+			<header id="header" class="alt"><div class="logo"><a href="index.html">Welcome <span> To Keurt & Company</span></a></div>
+				<a href="#menu">Menu</a>
+			</header><!-- Nav --><nav id="menu"><ul class="links"><li><a href="index.html">Home</a></li>
+				<li><a href="generic.html">Generic</a></li>
+				<li><a href="elements.html">Elements</a></li>
+			</ul></nav><!-- Banner --><section id="banner"><div class="inner">
+					<header><h1>Bienvenue....</h1>
+						<p>"Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez." - Albert Schweitzer<br> Seule la motivation vous permet de commencer. L'habitude vous permet de continuer.</p>
+					</header><a href="#main" class="button big scrolly">Voir plus</a>
+				</div>
+			</section><!-- Main --><div id="main">
+
+				<!-- Section -->
+					<section class="wrapper style1"><div class="inner">
+							<!-- 2 Columns -->
+								<div class="flex flex-2">
+									<div class="col col1">
+										<div class="image round fit">
+											<a href="generic.html" class="link"><img src="images/keurt1.jpg" alt="" width="320" height="320"></a>
+										</div>
+									</div>
+									<div class="col col2">
+										<h3>Qui suis-je ?</h3>
+										<p> Moi Mr BITSIATSI EKOMI Keurt Albert suis un jeune homme né le 29 JUIN 2003 à LIBREVILLE ! Comme tout enfant , J'avais des reves. L'un deux était d'etre une personnalité pour ce pays ! Tout au long de mon cursus scolaire , j'étais toujours parmis les meilleurs élèves de mon établissement !  </p>
+										<p>Ayant obtenu mon CEP en 2014 , j'entra au CES d'AKEBE Ville dans lequel j'ai effectué une année (6ème) puis je suis parti à LDD où j'ai obtenu 2 tableaux d'honneur...Puis de 2017-2019 j'ai appris au CES PUBLIC DU CENTRE où j'obtiens mon BEPC avec mention...Ensuite de 2019 à 2022 j'ai été orienté au Lycée Georges MABIGNATH dans laquelle j'ai fait mes classes jusqu'à obtenir mon BAC d'office...  </p>
+										<a href="#" class="button">Accueil</a>
+									</div>
+								</div>
+						</div>
+					</section><!-- Section --><section class="wrapper style2"><div class="inner">
+							<div class="flex flex-2">
+								<div class="col col2">
+									<h3>Mon parcours universitaire</h3>
+									<p>Après obtention de mon BAC , j'ai passé le concours de l'INPTIC et je l'ai obtenu ! Aujourd'hui je suis en 2ème année en MMI en fase d'obtenir le BTS et ainsi etre potentiellemnt employable !</p>
+									<p>Je suis en grand passionné des nouvelles technologies , passionné par tout ce qui concerne les ordinateurs...Mon plus grand reve est de fondé ma propre société dans le domaine des NTIC ! Mais je sais qu'il faut que je travaille beaucoup sur moi pour arriver à mes fins !  </p>
+									<a href="#" class="button">Learn More</a>
+								</div>
+								<div class="col col1 first">
+									<div class="image round fit">
+										<a href="generic.html" class="link"><img src="images/keurt2.jpg" alt="" width="320" height="320"></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section><!-- Section --><section class="wrapper style1"><div class="inner">
+							<header class="align-center"><h2>Mes Réalisations professionelles & Personnelles</h2>
+								<p>J'ai choisi cette Institut car elle te donne tout pour que tu puisses réussir ! C'est dans cette optique que j'ai pu réaliser ces projets notamment : JavaScript , HTML , PHP , PYTHON , LES BASES DE DONNEES etc etc...</p>
+							</header><div class="flex flex-3">
+								<div class="col align-center">
+									<div class="image round fit">
+										<img src="images/capt1.png" alt="" width="320" height="320"></div>
+									<p>PROJET : Réaliser un site semblable à PYXABAY en PHP procédural </p>
+									<a href="#" class="button">Accueil</a>
+								</div>
+								<div class="col align-center">
+									<div class="image round fit">
+										<img src="images/capt2.png" alt="" width="320" height="320"></div>
+									<p>PROJET : Réaliser un site semblable à PYXABAY en PHP orientée objet </p>
+									<a href="#" class="button">Accueil</a>
+								</div>
+								<div class="col align-center">
+									<div class="image round fit">
+										<img src="images/capt3.jpg" alt="" width="320" height="320"></div>
+									<p>PROJET : Réaliser une affiche sur PHOTOSHOP. </p>
+									<a href="#" class="button">Accueil</a>
+								</div>
+							</div>
+						</div>
+					</section></div>
+
+		<!-- Footer -->
+			<footer id="footer"><div class="copyright">
+					<ul class="icons"><li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
+					</ul></div>
+			</footer><div class="copyright">
+			Site made with: <a href="https://templated.co/">TEMPLATED.CO</a>
+		</div>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script><script src="assets/js/jquery.scrolly.min.js"></script><script src="assets/js/jquery.scrollex.min.js"></script><script src="assets/js/skel.min.js"></script><script src="assets/js/util.js"></script><script src="assets/js/main.js"></script></body></html>
